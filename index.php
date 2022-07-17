@@ -18,6 +18,7 @@
           <li><a href="switchstatement.php">Simple Switch Statement</a></li>
           <li><a href="stringmanip.php">Simple String Manipulation</a></li>
           <li><a href="datetimemanip.php">Simple Date and Time Manipulation</a></li>
+          <li><a href="functions.php">Simple Functions</a></li>
      </ul>
      <!-- Basic HTML -->
      <h1>Hello HTML - PHP Primer</h1>
