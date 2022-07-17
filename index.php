@@ -24,5 +24,5 @@ echo "<h1> My Age is: $age years</h1>";
 ?>
 
 <?php
-require 'includes/footer.php'
+require 'includes/footer.php';
 ?>

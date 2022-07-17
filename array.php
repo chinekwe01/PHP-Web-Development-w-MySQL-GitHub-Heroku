@@ -19,5 +19,5 @@ for ($count = 0; $count < $size; $count++) {
 }
 ?>
 <?php
-require 'includes/footer.php'
+require 'includes/footer.php';
 ?>

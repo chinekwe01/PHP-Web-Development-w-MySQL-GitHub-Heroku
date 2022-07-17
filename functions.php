@@ -44,5 +44,5 @@ echo $returnValue . '<br>';
 
 ?>
 <?php
-require 'includes/footer.php'
+require 'includes/footer.php';
 ?>

@@ -20,5 +20,5 @@ print "Today is ";
 print date("j o F Y, \a\\t g.i a", time());
 ?>
 <?php
-require 'includes/footer.php'
+require 'includes/footer.php';
 ?>

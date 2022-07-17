@@ -25,5 +25,5 @@ do {
 echo '<p>Exit Loop</p>';
 ?>
 <?php
-require 'includes/footer.php'
+require 'includes/footer.php';
 ?>

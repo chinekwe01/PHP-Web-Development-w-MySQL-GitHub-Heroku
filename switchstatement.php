@@ -21,5 +21,5 @@ switch ($grade) {
 }
 ?>
 <?php
-require 'includes/footer.php'
+require 'includes/footer.php';
 ?>

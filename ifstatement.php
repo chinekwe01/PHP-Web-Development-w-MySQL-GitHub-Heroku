@@ -23,5 +23,5 @@ if ($grade == 'A') {
 }
 ?>
 <?php
-require 'includes/footer.php'
+require 'includes/footer.php';
 ?>

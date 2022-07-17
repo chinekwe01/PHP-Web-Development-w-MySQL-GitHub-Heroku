@@ -13,5 +13,5 @@ for ($count = 0; $count < 10; $count++) {
 }
 ?>
 <?php
-require 'includes/footer.php'
+require 'includes/footer.php';
 ?>

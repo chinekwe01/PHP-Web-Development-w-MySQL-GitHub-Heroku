@@ -28,5 +28,5 @@ echo 'Find character "C": ' . strchr($name, 'c') . '<br>';
 
 ?>
 <?php
-require 'includes/footer.php'
+require 'includes/footer.php';
 ?>
